@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+  <style>
+
+         body{
+
+	background-color: #EBF5FB;
+
+	color: #F4EEE0;
+
+	}	
+
+	  
+
+	a:link {
+
+  	color: #F4EEE0;
+
+  	background-color: transparent;
+
+  	text-decoration: none;
+
+	}
+
+	
+
+	.titulo{
+
+	background-color: #D6EAF8;
+
+	text-align: center;
+
+	margin: 25px;
+
+	padding: 20px;
+
+	font-size: 30px;
+
+	}
+
+
+
+	.cuerpo{
+
+	background-color: #AED6F1;
+
+	margin: 25px;
+
+	padding: 25px;
+
+	font-size: 20px;
+
+ 	text-align: justify;
+
+	}
+</style>
+ <title>saludmental</title>
+
+ </head>
+
+<body>
+
+  <div class="tittle">
+
+   <header>
+
+	    <header>
+
+    <h1>¿Qué es la salud mental?</h1>
+
+   </header>
+
+  </div>
+
+  <div class="cuerpo">
+
+  <main>
+
+    <article>
+
+      <h2>Síntomas</h2>
+
+      <p>Author:VI</p>
+
+      <p>Date: </p>
+
+      <p style="test-align:" justify; "="">
+
+<p>Los signos y síntomas de la enfermedad mental pueden variar según el trastorno, las circunstancias y otros factores. Los síntomas de la enfermedad mental pueden afectar las emociones, los pensamientos y las conductas.
+
+Algunos ejemplos de los signos y síntomas son los siguientes:
+
+•Sentimientos de tristeza o desánimo
+•Pensamientos confusos o capacidad reducida de concentración
+•Preocupaciones o miedos excesivos o sentimientos intensos de culpa
+•Altibajos y cambios radicales de humor
+Alejamiento de las amistades y de las actividades
+•Cansancio importante, baja energía y problemas de sueño
+•Desconexión de la realidad (delirio), paranoia o alucinaciones
+•Incapacidad para afrontar los problemas o el estrés de la vida diaria
+•Problemas para comprender y relacionar las situaciones y las personas
+•Problemas con el uso de alcohol o drogas
+•Cambios importantes en los hábitos alimentarios
+•Cambios en el deseo sexual
+•Exceso de enojo, hostilidad o violencia
+Pensamiento suicida
+A veces, los síntomas de un trastorno de salud mental aparecen como problemas físicos, como dolor de estómago, dolor de espalda, dolores de cabeza u otros dolores y molestias inexplicables.</p>
+
+    </article>
+
+  </main>
+
+</div>
+
+  <footer>
+
+    <p>&copy; 2023 My Blog. All rights reserved.</p>
+
+	  <a href="mailto:nissaximenar@gmail.com>cualquier tipo de duda o pregunta me la pueden hacer vía correo</a>
+
+  </footer>
+
+</body>
+
+</html>
